@@ -1,0 +1,41 @@
+{
+  "name": "react-firebase-post",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjaminhuanghuang/react-firebase-post.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benjaminhuanghuang/react-firebase-post/issues"
+  },
+  "homepage": "https://github.com/benjaminhuanghuang/react-firebase-post#readme",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-redux": "5.0.6",
+    "react-router": "^4.2.0",
+    "redux": "^3.7.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-jest": "^20.0.3",
+    "react-test-renderer": "^15.6.1",
+    "webpack": "^3.5.5",
+    "enzyme": "^2.9.1",
+    "jest": "^20.0.4",
+    "redux-mock-store": "^1.2.3",
+    "webpack-dev-server": "^2.7.1"
+  }
+}
